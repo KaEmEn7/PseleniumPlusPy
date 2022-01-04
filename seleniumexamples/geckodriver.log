@@ -1,0 +1,345 @@
+Invalid port. Exiting...
+Invalid port. Exiting...
+1637897014313	geckodriver	INFO	Listening on 127.0.0.1:62594
+1637898930685	geckodriver	INFO	Listening on 127.0.0.1:62894
+1637899148311	geckodriver	INFO	Listening on 127.0.0.1:62911
+1637899553846	geckodriver	INFO	Listening on 127.0.0.1:62967
+1637899783012	geckodriver	INFO	Listening on 127.0.0.1:63064
+1637899786080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63065" "-no-remote" "-profile" "C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofile2OcRfb"
+1637899787294	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofile2OcRfb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63065/devtools/browser/f7e56dbc-844c-4eb5-ba3b-0a7edfb3387e
+1637899794050	Marionette	INFO	Listening on port 63070
+1637899794592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637899815996	Marionette	INFO	Stopped listening on port 63070
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Kamil\AppData\Local\Temp\rust_mozprofile2OcRfb\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637899823841	geckodriver	INFO	Listening on 127.0.0.1:63188
+1637899826897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63189" "-no-remote" "-profile" "C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileBTE4sB"
+1637899828146	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileBTE4sB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63189/devtools/browser/1f9afa30-8134-4259-b52a-3cb3dfbbd1c6
+1637899834430	Marionette	INFO	Listening on port 63194
+1637899834904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637899838555	Marionette	INFO	Stopped listening on port 63194
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014D,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Kamil\AppData\Local\Temp\rust_mozprofileBTE4sB\protections.sqlite
+1637899997784	geckodriver	INFO	Listening on 127.0.0.1:63301
+1637900000870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63302" "-no-remote" "-profile" "C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileszpqyG"
+1637900002030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileszpqyG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63302/devtools/browser/5200eaf1-2b6a-421f-a947-f8267b776fd4
+1637900008661	Marionette	INFO	Listening on port 63307
+1637900008862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637900014150	Marionette	INFO	Stopped listening on port 63307
+JavaScript error: https://ssp.seznam.cz/static/js/reklama.js line 1 > eval, line 1: NS_ERROR_UNEXPECTED: 
+1637900038311	geckodriver	INFO	Listening on 127.0.0.1:63409
+1637900041402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63410" "-no-remote" "-profile" "C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileUbaoEZ"
+1637900042575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileUbaoEZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63410/devtools/browser/621c0687-50a3-438e-8554-a5cffc47a7f4
+1637900049055	Marionette	INFO	Listening on port 63415
+1637900049404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637900050656	Marionette	INFO	Stopped listening on port 63415
+1637901351200	geckodriver	INFO	Listening on 127.0.0.1:63564
+1637901354265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63565" "-no-remote" "-profile" "C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileYJboaZ"
+1637901355572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileYJboaZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63565/devtools/browser/550f9ca4-e065-41f7-840f-db70fa8b085a
+1637901362260	Marionette	INFO	Listening on port 63570
+1637901362806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637901364308	Marionette	INFO	Stopped listening on port 63570
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1637903278483	geckodriver	INFO	Listening on 127.0.0.1:63837
+1637903281558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63838" "-no-remote" "-profile" "C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileoOnGiw"
+1637903283439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileoOnGiw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63838/devtools/browser/ef77b6b4-b8e2-4d46-a72d-bd484c8e0f99
+1637903290757	Marionette	INFO	Listening on port 63843
+1637903291206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637903294478	Marionette	INFO	Stopped listening on port 63843
+JavaScript error: https://www.way2automation.com/, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640570367508	geckodriver	INFO	Listening on 127.0.0.1:63003
+1640570370600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63004" "-no-remote" "-profile" "C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileTIBpqr"
+*** You are running in headless mode.
+1640570372035	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileTIBpqr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63004/devtools/browser/1177839c-e201-4466-838b-cbb389925eed
+1640570374891	Marionette	INFO	Listening on port 63009
+1640570374965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redbus.in/javascripts/layout.cf2b69000dcfba800997.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.cf2b69000dcfba800997.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640570383192	Marionette	INFO	Stopped listening on port 63009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640570549937	geckodriver	INFO	Listening on 127.0.0.1:63104
+1640570553032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63105" "-no-remote" "-profile" "C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileOpgl3H"
+*** You are running in headless mode.
+1640570553964	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofileOpgl3H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63105/devtools/browser/87b53804-a2d5-48cf-8d80-f462983f71c3
+1640570556324	Marionette	INFO	Listening on port 63110
+1640570556729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redbus.in/javascripts/layout.cf2b69000dcfba800997.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.cf2b69000dcfba800997.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640570566528	Marionette	INFO	Stopped listening on port 63110
+1640570578167	geckodriver	INFO	Listening on 127.0.0.1:63198
+1640570581254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63199" "-no-remote" "-profile" "C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofile7HkNtE"
+1640570581903	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kamil\\AppData\\Local\\Temp\\rust_mozprofile7HkNtE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63199/devtools/browser/2486e28a-c4a6-4e68-88b7-1897a9936a1b
+1640570585868	Marionette	INFO	Listening on port 63204
+1640570586101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.redbus.in/javascripts/layout.cf2b69000dcfba800997.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.cf2b69000dcfba800997.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640570593683	Marionette	INFO	Stopped listening on port 63204
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+

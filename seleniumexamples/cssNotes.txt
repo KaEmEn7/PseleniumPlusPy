@@ -1,0 +1,23 @@
+Teorie:
+
+$$
+
+input[id='IdentifierId']
+
+attributy můžeme řetězit jak u xpath
+    input[id='IdentifierId'][email = 'kundo@smrdis.tru']
+
+částečné hledání
+    input[id^='Identifie'] - start-with
+    input[id$='IdentifierId'] - ends-with
+    input[id*='IdentifierId'] - contains
+    #IdentifierId - id (# = id)
+    .Xb9hP - class (. = class)
+
+    input#IdentifierId.whs0nd.zHQkBf[type = 'email']
+
+parent element
+
+div.aCsJod.oJewuf > div > div:first-child
+div.aCsJod.oJewuf > div > div:last-child
+div.aCsJod.oJewuf > div > div:nth-child(2)

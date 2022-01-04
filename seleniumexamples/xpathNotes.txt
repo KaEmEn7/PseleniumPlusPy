@@ -1,0 +1,27 @@
+Tools - Chropath
+
+$x//
+
+Teorie:
+
+Relative xpath
+    //tagname[@attribute = 'value']
+
+attributy můžeme řetězit
+
+    //tagname[@attribute=' value'][@attribute2 = 'value']
+
+částečné hledání
+    //tagname[starts-with(@attribute, 'value')]
+
+    //tagname[contains(@attribute, 'value')]
+
+    //tagname[text()='value'
+
+    //tagname[containts(text(), 'partialvalue')]
+
+parent element
+    //tagname[@attribute = 'value']/..
+    //tagname[@attribute = 'value']/parent::tagname
+    //tagname[@attribute = 'value']/following-sibling::tagname
+    //tagname[@attribute = 'value']/preceding-sibling::tagname
